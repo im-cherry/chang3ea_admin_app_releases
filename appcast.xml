@@ -5,14 +5,14 @@
         <description>창세계 관리자 주문관리 프로그램입니다</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0</title>
-            <description>첫배포 - 간단한 UI</description>
+            <title>Version 1.0.1</title>
+            <description>다크모드 지원</description>
             <pubDate>Fri, 19 Dec 2025 12:00:00 +0900</pubDate>
-            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:version>1.0.1</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MDwCHQDip4FoUm6S4ol4Ss7iJK92d38rNjQLzFUNUU0OAhthvMeoDpWiwMQfBTMu+S6SS4Rj/T38XDKMrsE="
+                       sparkle:dsaSignature="MDwCHBmYolqVtHl9gdKYKUApNfM5dfB1Te47VSYnUB4CHE/FVFbBQtTqmPBz2xCECrgtkZ1teFlA3YyzIPY="
                        length="0"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
