@@ -13,7 +13,6 @@
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
                        sparkle:dsaSignature="MDwCHGjtvMFlQy+E6lxTQALu0+RUP9sDiY8CYxZdZRoCHB21ecQ75PT7jcDZl0EEaStru1imaSPigRDBYN0="
-                       length="0"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
