@@ -12,9 +12,9 @@
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MDwCHFEhPSLvk0f829Zn4f6vOI2Hk4P7h2JbKmeIKHICHGxIyWvhY2D1ux5/G+fd9q137KmGyxzGnM7GFG0="
+                       sparkle:dsaSignature="MDwCHQDip4FoUm6S4ol4Ss7iJK92d38rNjQLzFUNUU0OAhthvMeoDpWiwMQfBTMu+S6SS4Rj/T38XDKMrsE="
                        length="0"
-                       type="application/octet-stream" />
+                       type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
 </rss>
