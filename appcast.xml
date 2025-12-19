@@ -7,13 +7,13 @@
         <item>
             <title>Version 1.0.5</title>
             <description>내정보 기능 업데이트</description>
-            <pubDate>Fri, 19 Dec 2025 18:00:00 +0900</pubDate>
+            <pubDate>Fri, 19 Dec 2025 18:05:00 +0900</pubDate>
             <sparkle:version>1.0.5</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MD4CHQCxpTHoal4l3Jj21QR9ztF/CJJJIm3b8/qwF7eDAh0AxAUsgZ0Ag9+mkzF/KztbGNEte7iWsg2mILhb6g=="
-                       length="12765942"
+                       sparkle:dsaSignature="MD0CHDg0IT2rtKzkC2RSLTYeSiKUP3/s8BtZNai9m1wCHQC8zL6JlMk2nhH4iM6vFcwEmY+ZfyOiQRakddPC"
+                       length="12766538"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
