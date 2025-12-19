@@ -7,12 +7,13 @@
         <item>
             <title>Version 1.0.2</title>
             <description>다크모드 지원</description>
-            <pubDate>Fri, 19 Dec 2025 12:00:00 +0900</pubDate>
+            <pubDate>Fri, 19 Dec 2025 17:15:00 +0900</pubDate>
             <sparkle:version>1.0.2</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
                        sparkle:dsaSignature="MDwCHGjtvMFlQy+E6lxTQALu0+RUP9sDiY8CYxZdZRoCHB21ecQ75PT7jcDZl0EEaStru1imaSPigRDBYN0="
+                       length="12768036"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
