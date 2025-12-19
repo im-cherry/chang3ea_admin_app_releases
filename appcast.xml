@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>창세계 관리자 주문관리 프로그램</title>
+        <description>창세계 관리자 주문관리 프로그램입니다</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>첫배포 - 간단한 UI</description>
+            <pubDate>Fri, 19 Dec 2025 12:00:00 +0900</pubDate>
+            <sparkle:version>1.0.0</sparkle:version>
+            <sparkle:os>windows</sparkle:os>
+            
+            <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
+                       sparkle:dsaSignature="MDwCHFEhPSLvk0f829Zn4f6vOI2Hk4P7h2JbKmeIKHICHGxIyWvhY2D1ux5/G+fd9q137KmGyxzGnM7GFG0="
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
