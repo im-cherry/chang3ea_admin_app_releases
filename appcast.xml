@@ -5,15 +5,21 @@
         <description>창세계 관리자 주문관리 프로그램입니다</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.5</title>
-            <description>내정보 기능 업데이트</description>
-            <pubDate>Fri, 19 Dec 2025 18:05:00 +0900</pubDate>
-            <sparkle:version>1.0.5</sparkle:version>
+            <title>Version 1.0.6</title>
+            <description><![CDATA[
+                <b>기능 업데이트 및 추가 안내</b><br>
+                ✅ 자주묻는질문<br>
+                ✅ 공지사항<br>
+                ✅ 재입고일정<br>
+                ✅ 휴무일
+            ]]></description>
+            <pubDate>Fri, 20 Dec 2025 18:20:00 +0900</pubDate>
+            <sparkle:version>1.0.6</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
-                       sparkle:dsaSignature="MD0CHDg0IT2rtKzkC2RSLTYeSiKUP3/s8BtZNai9m1wCHQC8zL6JlMk2nhH4iM6vFcwEmY+ZfyOiQRakddPC"
-                       length="12766538"
+                       sparkle:dsaSignature="MD0CHEBQ8iWcCAi/EAP/vWR37hoiIf24pVgCETzdtAoCHQC6rVNQdlw0Bb/zDbUoxFWBoAbDrmcIcBzpApNa"
+                       length="12827699"
                        type="application/vnd.microsoft.portable-executable" />
         </item>
     </channel>
