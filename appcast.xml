@@ -14,14 +14,14 @@
                 ✅ 거래처(공장)<br>
                 ✅ 거래처(비회원)
             ]]></description>
-            <pubDate>Fri, 23 Dec 2025 23:30:00 +0900</pubDate>
+            <pubDate>Mon, 23 Dec 2025 23:30:00 +0900</pubDate>
             <sparkle:version>1.0.7</sparkle:version>
             <sparkle:os>windows</sparkle:os>
             
             <enclosure url="https://github.com/im-cherry/chang3ea_admin_app_releases/raw/main/setup.exe"
                        sparkle:dsaSignature="MD0CHEjEabuLhuTpMNTfdVGWFBBJsFgYZtLxBkZ640cCHQC61QKQ/kL94tfe0zZXOhve4fBQgssBElDcMB12"
                        length="13197762"
-                       type="application/vnd.microsoft.portable-executable" />
+                       type="application/octet-stream" />
         </item>
     </channel>
 </rss>
